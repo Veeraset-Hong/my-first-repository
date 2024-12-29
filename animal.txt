@@ -4,3 +4,4 @@ cat
 dog
 eagle
 panda
+zebra
